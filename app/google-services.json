@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "500117136190",
+    "firebase_url": "https://geofencing-aa057.firebaseio.com",
+    "project_id": "geofencing-aa057",
+    "storage_bucket": "geofencing-aa057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500117136190:android:505a19e9273d85ee5fc26f",
+        "android_client_info": {
+          "package_name": "com.example.geofencing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500117136190-lqpm61m5beda3coqc667d1rpha0p7tpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geofencing",
+            "certificate_hash": "3a58df85632bfbf147a85610d485fbe1491da0e8"
+          }
+        },
+        {
+          "client_id": "500117136190-d10un89a9h6olk3dp5qtgn0husl698i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxb5TkMDq8JILTni27lVgT215V1mqR82o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500117136190-d10un89a9h6olk3dp5qtgn0husl698i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
